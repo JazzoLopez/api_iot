@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 const char* ssid = "StarTI"; //Nombre de tu red
-const char* password = "H1p0dr0m0";//Contraseña de tu red
+const char* password = "H1p0dr0m0";//Contraseña de tu red  wifi
 String url = "http://000.000.00.00:3000/api/getAll"; //Ip de tu dispositivo y la  ruta 
 
 void setup()
