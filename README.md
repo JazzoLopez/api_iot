@@ -19,4 +19,16 @@ Esto nos ayuda a tener un enfoque de la IoT o el Internet de las Cosas y compren
 <br>
 <br>
 
-![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-blue)
+## Tecnologías utilizadas
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,js,mongodb,express"/>
+  
+  
+  
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-blue"/>
+ 
+</p>
+
+
