@@ -19,4 +19,4 @@ Esto nos ayuda a tener un enfoque de la IoT o el Internet de las Cosas y compren
 <br>
 <br>
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-blue)
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-blue)
